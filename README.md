@@ -114,6 +114,14 @@ This portfolio demonstrates my ability to:
 
 ---
 
+## 🙏 Special Thanks  
+
+I want to thank **Daniel Bourke (@mrdbourke)** for his outstanding PyTorch tutorials.  
+His clear explanations of tensors, autograd, model building, and deep‑learning workflows played a major role in my learning journey.  
+This portfolio is directly inspired by the skills I developed through his YouTube series and GitHub resources.  
+His teaching helped me build confidence in applying PyTorch to real machine‑learning projects.
+
+
 ## 📬 Contact
 
 **José Alberto Martinez Morales**  
